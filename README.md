@@ -8,3 +8,5 @@ To play the game each player needs a player model and a desk model - each player
 You will also need all four parts of the board and four clips to hold them together.
 You need one boss character and one dice.
 You will need 4 of each office equipment token, stapler, ruler and pens.
+
+![Breakdown of the areas of the game board](./Documentation/OfficeSupply_map.jpg?raw=true)
